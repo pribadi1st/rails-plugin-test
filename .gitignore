@@ -1,0 +1,10 @@
+/.bundle/
+/doc/
+/log/*.log
+/pkg/
+/tmp/
+/engines/community/spec/dummy/db/*.sqlite3
+/engines/community/spec/dummy/db/*.sqlite3-*
+/engines/community/spec/dummy/log/*.log
+/engines/community/spec/dummy/storage/
+/engines/community/spec/dummy/tmp/
